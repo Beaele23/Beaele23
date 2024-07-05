@@ -17,7 +17,7 @@
   Tengo experiencia en Ventas y Gestión Administrativa
    </li>
  </ul>
-#Tecnologias 
+## Tecnologias 
 <div class="skills my-3>
 <img class="mx-2" alt="Vue JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img class="mx-2" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
