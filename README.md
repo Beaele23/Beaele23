@@ -1,5 +1,4 @@
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF5a2cxZHcycG92Zjdhemx4aDJmZWw4Z3VmZ2tkaTJlYTZpMGM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGwIFdyvV3Xrimie3h/giphy.gif" width="100"> 
-<h1 class="text-center">Bienvenido a mi GitHub</h1>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF5a2cxZHcycG92Zjdhemx4aDJmZWw4Z3VmZ2tkaTJlYTZpMGM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGwIFdyvV3Xrimie3h/giphy.gif" width="100"> <h1 class="text-center">Bienvenido a mi GitHub</h1>
 ![Banner de Beaele](Banner-github-beaele.jpg)
 
 ## Tecnologias 
