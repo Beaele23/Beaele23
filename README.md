@@ -2,7 +2,7 @@
 ![Banner de Beaele](Banner-github-beaele.jpg)
 <ul>
   <li>
-  Soy Colombiana, pero vivo en Chile.
+  Soy Colombiana, vivo en Chile hace 12 años.
   </li>
   <li>
   Actualmente estoy en proceso de aprendizaje de desarrollo Front-End.
